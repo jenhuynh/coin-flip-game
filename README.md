@@ -1,1 +1,3 @@
-# coin-flip-game
+# Coin Flip Game
+
+By Jen Huynh.
