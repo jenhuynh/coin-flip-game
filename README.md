@@ -1,3 +1,3 @@
 # Coin Flip Game
 
-By Jen Huynh
+By Jen Huynh.
